@@ -1,4 +1,3 @@
-  
 body, html {
     margin: 0;
     font-family: sans-serif;
@@ -11,6 +10,7 @@ body, html {
 
 table, td, th {
     border: 1px solid #aaa;
+    justify-content: center;
 }
 
 table {
